@@ -1,1 +1,2 @@
-# DeadStar
+# DeadStar 
+project for UralGameJam

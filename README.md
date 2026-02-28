@@ -1,3 +1,3 @@
 # DeadStar 
-project for UralGameJam2025
+Project for UralGameJam2025
 Itch.io: https://impoxx1ble.itch.io/dead-star
